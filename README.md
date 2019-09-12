@@ -17,5 +17,5 @@ https://github.com/DAVFoundation/missions/pull/86/files
 https://github.com/DAVFoundation/missions/pull/79/files
 
 ---
-### freeCodeCamp/how-to-contribute-to-open-source
-- https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/140/files
+[//]: # (### freeCodeCamp/how-to-contribute-to-open-source)
+[//]: # (- https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/140/files)
