@@ -23,6 +23,7 @@ Simple and efficient way to access various statistics in git repository.
 Modern & flexible browser fingerprinting library
 - Feature : [Audio Fingerprinting](https://github.com/Valve/fingerprintjs2/pull/330/files)
 - [Code Optimization](https://github.com/Valve/fingerprintjs2/commit/f6c39229228831ffb7d84592e0529633f25c0c65)
+- BugFix : [Console Error on too many active WEBGL contexts](https://github.com/Valve/fingerprintjs2/pull/484)
 
 ---
 ### [DAVFoundation/missions](https://github.com/DAVFoundation/missions)
