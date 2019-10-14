@@ -4,7 +4,7 @@ My contributions in various open source projects.
 ### [onelogin/java-saml](https://github.com/onelogin/java-saml)
 [![GitHub stars](https://img.shields.io/github/stars/onelogin/java-saml.svg?style=social&label=Star&maxAge=2592000)](https://github.com/onelogin/java-saml)  [![GitHub forks](https://img.shields.io/github/forks/onelogin/java-saml.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/onelogin/java-saml/network/)  
 
-A library for adding SAML-2 support to Java applications.
+A library for adding **Single Sign On** (SAML-2) support to Java applications.
 - Feature : [Support KeyStore](https://github.com/onelogin/java-saml/pull/241)
 - Feature : [Support Key Rollover - Publish future SP Cert in Metadata](https://github.com/onelogin/java-saml/pull/240)
 - Refactor : [KeyEntry Password in KeyStoreSettings](https://github.com/onelogin/java-saml/pull/243)
